@@ -1,7 +1,7 @@
 
-//call GL and GLU
-//GL : define points that you will draw it and  define some primitives and color commands
-//GLU : responsible for projection and camera
+//call gl and glu
+//gl : define points that you will draw it and  define some primitives and color commands
+//glu : responsible for projection and camera
 #include <GL/freeglut.h>
 
 void display()  //drawing fun.
